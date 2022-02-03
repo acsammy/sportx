@@ -1,0 +1,21 @@
+.client-container{
+  align-content: center;
+}
+
+.form-client {
+  background-color: #ddd;
+  width: 80vh;
+  height: 40vh;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-direction: column;
+}
+
+.client-input{
+  padding: 10px 15px;
+  width: 100%;
+}
+
+.client-input label{
+  padding-right: 15px;
+}
